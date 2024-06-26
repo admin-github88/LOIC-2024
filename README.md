@@ -4,8 +4,12 @@ Dos attack tools
 ### Installation
 
 ```bash
-sudo su
+sudo su        after  enter your root password
 ```
+```bash
+apt update -y
+```
+
 
 ```bash
 git clone https://github.com/anandpathak1/loic
