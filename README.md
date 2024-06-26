@@ -12,11 +12,11 @@ apt update -y
 
 
 ```bash
-git clone https://github.com/anandpathak1/loic
+git clone https://github.com/anandpathak1/LOIC-2024
 ```
 
 ```bash
-cd LOIC
+cd LOIC-2024
 ```
 ```bash
 chmod +x *
