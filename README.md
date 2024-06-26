@@ -8,7 +8,11 @@ git clone https://github.com/anandpathak1/loic
 ```
 
 ```bash
-
+cd loic
+```
+```bash
+chmod +x *
+```
 
 ### Usage
 
