@@ -4,6 +4,10 @@ Dos attack tools
 ### Installation
 
 ```bash
+sudo su
+```
+
+```bash
 git clone https://github.com/anandpathak1/loic
 ```
 
@@ -13,17 +17,16 @@ cd loic
 ```bash
 chmod +x *
 ```
+```bash
+apt install mono-complete
+```
+
 
 ### Usage
-
-   - ````./loic.sh run````
-
-- RUN 
-  - ```./loic.sh run```
-
-### Command aliases
-
-
-* run - r
-* update - u
-* version - v
+ 
+```bash
+./loic.sh run
+```
+```bash
+./loic.sh run
+```
