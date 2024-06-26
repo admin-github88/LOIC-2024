@@ -1,4 +1,4 @@
-## loic
+## Low Orbit Ion Cannon - An open source network stress tool. Written in C#
 Dos attack tools
 
 ### Installation
