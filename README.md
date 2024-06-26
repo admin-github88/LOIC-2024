@@ -4,7 +4,7 @@ Dos attack tools
 ### Installation
 
 ```bash
-sudo su        after  enter your root password
+sudo su
 ```
 ```bash
 apt update -y
