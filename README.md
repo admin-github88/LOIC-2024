@@ -18,7 +18,7 @@ cd loic
 chmod +x *
 ```
 ```bash
-apt install mono-complete
+apt install mono-complete -y
 ```
 
 
