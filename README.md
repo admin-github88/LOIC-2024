@@ -16,7 +16,7 @@ git clone https://github.com/anandpathak1/loic
 ```
 
 ```bash
-cd loic
+cd LOIC
 ```
 ```bash
 chmod +x *
